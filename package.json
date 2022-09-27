@@ -1,5 +1,5 @@
 {
-  "name": "0004-111-uusssss",
+  "name": "ssss555tt",
   "theme": "ui",
   "version": "1.1.2",
   "description": "Bagi para member, memilih bermain game slot bonus depo 100 dengan jalan yang lebih tepat salah satunya datang dari situs 100. Beragam layanan seperti slot bonus 100 slot gacor% di awal hingga deposit yang cepat dan gampang bisa dijalani dalam situs dengan opsi game slotnya yang memiliki nilai RTP lebih dari 95%. slot bonus 100 to 7x, slot bonus new member 100 di awal to 10x, slot bonus 100 to 3x, 100 slot gacor, slot bonus 100 di depan, slot bonus 100 to 8x, slot bonus new member 100 di awal tanpa deposit, bonus new member 100 to 10x, bonus new member 100% (slot game), slot bonus new member tanpa deposit, bonus member baru 150 % (slot), slot bonus new member 100 di awal to 7x, slot bonus 200% di depan, depo 50 bonus 100, slot deposit dana, slot deposit ovo, gopay,",
@@ -10,9 +10,21 @@
     "info slot gacor",
     "slot new member 5000"
   ],
-  "repository": "https://github.com/insideourheart/12222",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insideourheart/12222.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/insideourheart/12222/issues"
+  },
+  "homepage": "https://github.com/insideourheart/12222#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }
